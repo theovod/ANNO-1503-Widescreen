@@ -1,6 +1,3 @@
-# ANNO-1503-Widescreen
-Anno 1503 - Widescreen Patch
-
 # Anno 1503 - Widescreen Patch
 
 ## Installation
