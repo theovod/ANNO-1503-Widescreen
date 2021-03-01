@@ -1,5 +1,5 @@
 # ANNO-1503-Widescreen
-a widescreen mod / configuration for ANNO 1503 
+Anno 1503 - Widescreen Patch
 
 # Anno 1503 - Widescreen Patch
 
