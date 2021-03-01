@@ -1,0 +1,2250 @@
+[ANLAGEN]
+104:Wald
+501:Pionierhaus
+503:Pionierhaus
+505:Pionierhaus
+507:Pionierhaus
+509:Pionierhaus
+511:Pionierhaus
+513:Pionierhaus
+520:Siedlerhaus
+521:Siedlerhaus
+522:Siedlerhaus
+523:Siedlerhaus
+524:Siedlerhaus
+525:Siedlerhaus
+526:Siedlerhaus
+540:Bürgerhaus
+541:Bürgerhaus
+542:Bürgerhaus
+543:Bürgerhaus
+544:Bürgerhaus
+545:Bürgerhaus
+546:Bürgerhaus
+547:Bürgerhaus
+560:Kaufleute
+561:Kaufleute
+562:Kaufleute
+563:Kaufleute
+564:Kaufleute
+565:Kaufleute
+566:Kaufleute
+567:Kaufleute
+568:Ruine
+580:Aristokraten
+581:Aristokraten
+582:Aristokraten
+583:Aristokraten
+584:Aristokraten
+585:Aristokraten
+700:Indigofeld
+704:Hanffeld
+708:Kartoffelfeld 
+712:Getreidefeld 
+716:Weinfeld
+720:Hopfenfeld 
+724:Zuckerrohr 
+728:Baumwollfeld 
+732:Gewürzfeld
+736:Tabakfeld 
+740:Seidenfeld
+744:Heilkräuter
+748:Heilkräuter
+752:Tabakfeld 
+756:Gewürzfeld 
+801:Forsthaus
+803:Marmorsteinmetz
+804:Steinmetz
+805:Jagdhütte
+807:Schaffarm
+808:Hanfplantage
+809:Kleine Farm
+810:Fischerhütte
+811:Getreidefarm
+812:Gewürzplantage
+813:Tabakplantage
+814:Zuckerrohrplantage 
+815:Hopfenfarm
+817:Seidenplantage
+818:Indigoplantage
+819:Baumwollplantage
+820:Rinderfarm
+821:Walfänger
+822:Weingut
+823:Heilkräuterplantage
+824:Pelztierjäger
+1005:Weberei
+1002:Mühle
+1004:Bäckerei
+1001:Webstube
+1006:Bogenmacher
+1008:Tabakverarbeitung
+1009:Färberei
+1010:Kriegsmaschinenbauer
+1012:Büchsenmacher
+1013:Rumbrennerei
+1014:Brauerei
+1017:Erzschmelze
+1018:Fleischerei
+1019:Schmied
+1020:Kleine Werft
+1021:Große Werft
+1022:Saline
+1023:Gerberei
+1027:Schneiderei
+1028:Transiederei
+1029:Rüstungsbauer
+1030:Seilerei
+1034:Große Erzschmelze
+1035:Köhlerei
+1036:Gr. Waffenschmiede
+1037:Kl. Waffenschmiede
+1038:Kanonengießerei
+1039:Goldschmied
+1201:Steinbruch
+1203:Salzmine
+1205:Erzmine
+1206:Goldmine
+1208:Steinbruch
+1210:Erzmine
+1212:Goldmine
+1214:Edelsteinmine
+1216:Große Erzmine
+1217:Große Erzmine
+1218:Marmorsteinbruch 
+1220:Marmorsteinbruch
+1301:Markthaupthaus
+1302:Kontor
+1303:Markthaupthaus
+1304:Kontor
+1305:Markthaupthaus
+1306:Kontor
+1310:Nahrungs-/Salzstand
+1313:Schmuckstand
+1314:Stoff-/Lederstand
+1315:Tabak-/Gewürzstand
+1316:Weinstand
+1317:Lampenölstand
+1318:Kleidungstand
+1320:Kapelle
+1321:Kirche
+1325:Kirche
+1326:Galgen
+1327:Galgen
+1330:Kathedrale
+1335:Wirtshaus
+1336:Großes Wirtshaus
+1337:Medikus
+1339:Amtsgericht
+1341:Brunnen
+1342:Brunnen
+1346:Schule
+1347:Schule
+1350:Feuerwehr
+1376:Theater
+1377:Badehaus
+1378:Bibliothek
+1379:Universität
+1380:Schloss Hauptteil
+1381:Schlossflügel
+1382:Schloss Eckturm
+1383:Schloss Bogengang
+1386:Pavillon
+1400:Ruine 
+1401:Ruine 
+1402:Ruine 
+1403:Ruine 
+1404:Große Festung
+1405:Große Festung
+1406:Mittlere Festung
+1407:Mittlere Festung
+1408:Ruine 
+1409:Ruine 
+1410:Ruine 
+1412:Ruine 
+1413:Beschädigtes Kontor
+1414:Beschädigtes Markthaupthaus
+1415:Beschädigtes Kontor
+1416:Beschädigtes Markthaupthaus
+1417:Beschädigtes Kontor
+1418:Beschädigtes Markthaupthaus
+2201:Ruine 
+2202:Ruine 
+2203:Ruine 
+2204:Ruine 
+2205:Ruine 
+2206:Ruine 
+2208:Ruine 
+2209:Ruine 
+2210:Ruine 
+2211:Ruine 
+2212:Ruine 
+2213:Ruine 
+2220:Kleine Festung
+2221:Mittlere Festung
+2223:Große Festung
+2224:Ruine 
+2225:Ruine 
+2226:Ruine 
+2227:Mittlere Festung
+2228:Ruine 
+2229:Abwehrturm
+2230:Kanonenturm
+2231:Kanonenturm
+2232:Ruine 
+2233:Stadttor 
+2234:Kleines Stadttor 
+2235:Stadttor offen 
+2236:Kleines Stadttor offen 
+2240:Mauer
+2241:Mauer
+2242:Mauer
+2243:Mauer
+2244:Mauer
+2245:Mauer
+2246:Wachturm
+2247:Wachturm
+2248:Ruine 
+2249:Maueraufgang
+2250:Maueraufgang
+2251:Maueraufgang
+2252:Mauer
+2253:Mauer
+2254:Mauer
+2255:Mauer
+2256:Mauer
+2257:Mauer
+2258:Mauer
+2259:Mauer
+2260:Mauer
+2261:Mauer
+2262:Mauer
+2263:Mauer
+2264:Mauer
+2265:Mauer
+2266:Mauer
+2267:Mauer
+2268:Mauer
+2269:Mauer
+2270:Mauer
+2271:Mauer
+2272:Mauer
+2273:Mauer
+2274:Mauer
+2275:Mauer
+2276:Mauer
+2277:Mauer
+2278:Mauer
+2279:Mauer
+2280:Mauer
+2281:Mauer
+2282:Mauer
+2283:Mauer
+2500:Pflasterstraße
+2501:Pflasterstraße
+2502:Pflasterstraße
+2503:Pflasterstraße
+2505:Pflasterstraße
+2506:Pflasterstraße
+2507:Pflasterstraße
+2508:Pflasterstraße
+2509:Steinpier
+2510:Pflasterstraße
+2511:Pflasterstraße
+2512:Pflasterstraße
+2513:Pflasterstraße
+2514:Pflasterstraße
+2515:Pflasterstraße
+2516:Steinbrücke
+2517:Steinbrücke
+2518:Prunkbrücke
+2519:Prunkbrücke
+2520:Feldweg
+2521:Feldweg
+2522:Feldweg
+2523:Feldweg
+2524:Feldweg
+2525:Feldweg
+2526:Feldweg
+2527:Feldweg
+2528:Feldweg
+2529:Holzpier
+2530:Feldweg
+2531:Feldweg
+2532:Feldweg
+2533:Feldweg
+2534:Feldweg
+2535:Feldweg
+2536:Holzbrücke
+2537:Holzbrücke
+2550:Marktplatz
+2551:Marktplatz
+2552:Pflasterplatz
+2553:Denkmal
+2554:Obelisk
+2555:Prunkbrunnen
+2556:Zierhecke
+2557:Zierhecke
+2558:Zierhecke
+2559:Zierhecke
+2560:Zierbaum
+2561:Zierbaum
+2562:Zierhecke
+2563:Zierhecke
+2564:Blumenbeet
+2565:Zierhecke
+2566:Zierplatz
+2567:Zierplatz
+2568:Zierplatz
+2569:Zierplatz
+2672:Ziergitter
+2673:Ziergitter
+2676:Zierhecke
+2677:Zierhecke
+2701:Fluss
+2702:Fluss
+2703:Fluss
+2704:Fluss
+2705:Fluss
+2706:Fluss
+2707:Fluss
+2708:Brandung 
+2740:Fluss
+2778:Zierhecke
+2779:Zierhecke
+2780:Triumphbogen
+2801:Meer 
+2802:Meer 
+1384:SchlossBogenelement
+1385:Schloss Hauptteil
+1387:Schlosstor
+1388:Feldherrenhalle
+1389:Löwenportal
+1390:Reiterstandbild
+1391:Venusbrunnen
+1392:Schlossflügel
+1393:Ziergarten
+1395:Prunkflagge
+[STARTUP:PROFILE]
+Neues Profil
+Profil bearbeiten
+Profil löschen
+OK
+Aktueller Spieler: %s
+[STARTUP:AUFTRAGSTEXT]
+Zurück
+[STARTUP:FARBWAHL_MULTI]
+Spieler sperren
+Farbe löschen
+Auftrag
+Start
+Zurück
+[STARTUP:FARBWAHL_EINZEL]
+Zurück
+Einstellungen
+Bitte wählen Sie eine Fahne aus, um das Spiel zu starten!
+[STARTUP:SZ_AUSWAHL]
+Zurück
+Auftrag
+OK
+Spiel auswählen
+********** Einführungsspiele ********
+*********** Endlosspiele ***********
+************* Szenarien *************
+************ Kampagne ************
+*********** Endlosspiele ***********
+**********AddOn Szenarien ***********
+[STARTUP:ENDLOSCUSTOMIZE]
+Computerspieler: ein
+Computerspieler: aus
+Piraten: ein
+Piraten: aus
+Katastrophen: ein
+Katastrophen: aus
+Start
+OK
+[STARTUP:OPTIONS]
+800x600
+1024x768
+1152x864
+1280x960
+1366x768
+Details: aus
+Details: ein
+Zurück
+[STARTUP:SERVERSPIELTYP]
+Neues Spiel
+Kampagne
+Spiel laden
+Spiel fortsetzen
+Zurück
+[STARTUP:WAITSCREEN]
+Einen kleinen Augenblick...
+[STARTUP:SERVERAUSWAHL]
+Zurück
+OK
+Bitte Server auswählen.
+[STARTUP:MESSAGEBOX]
+Versionskonflik!!!\nMit diesen Server kann\nsich nicht verbunden sein.
+Es gibt mind. 2 gleiche USERGUIDs\nSo kann Spiel nicht gestartet werden!
+Sie müssen Administratorrechte\nhaben um Anno zu starten!
+[STARTUP:SESSIONNAME]
+Zurück
+OK
+Sessionname eingeben:
+[STARTUP:SPLASH]
+Profil: %s
+Einzelspieler
+Mehrspieler
+Credits
+Optionen
+Beenden
+[STARTUP:MULITPLAYER]
+LAN Server
+LAN Client
+Internet
+Zurück
+[WARE_BAUMAT]
+Werkzeug
+Holz
+Ziegel
+Marmor
+[WARE_WAFFEN]
+Schwerter
+Bögen
+Armbrüste
+Musketen
+Rüstungen
+Lanzen
+Äxte
+Schiffskanonen
+[WARE_ROHSTOFF]
+Eisenerz
+Gold
+Salzstein
+Edelsteine
+Steine
+Marmorstein
+Wolle
+Zuckerrohr
+Tabak
+Schlachtvieh
+Getreide
+Mehl
+Eisen
+Hanf
+Hopfen
+Tierhäute
+Seile
+Seide
+Farbstoff
+Walspeck
+Holzkohle
+[WARE_BEDARF]
+Nahrung
+Leder
+Salz
+Alkohol
+Tabakwaren
+Gewürze
+Heilkräuter
+Stoffe
+Seidenstoffe
+Lampenöl
+Kleidung
+Schmuck
+Pelze
+Wein
+[WARE_ANBAU]
+Getreide
+Tabak
+Gewürze
+Flachs
+Zuckerrohr
+Baumwolle
+Wein
+Kakao
+Hopfen
+Seide
+Indigopflanze
+Heilkräuter
+[WARE_INFRA]
+Wirtshaus
+Badehaus
+Theater
+Medikus
+Schule
+Universität
+Kapelle
+Kirche
+Kathedrale
+Parkanlage
+Bibliothek
+Feuerwehr
+Amtsgericht
+Galgen
+[WARE_SOLDAT]
+Pikenier
+Schwertkämpfer
+Bogenschütze
+Lanzenknecht
+Kavallerie
+Armbrustschütze
+Musketenschütze
+Musketier
+Scout
+Bedienmannschaft
+Sanitäter
+Esel
+Katapult
+Katapult
+Kanone
+Kanone
+Mörser
+Mörser
+Belagerungsturm
+Belagerungsturm
+[WARE_SCHIFF]
+Kleines Handelsschiff
+Mittleres Handelsschiff
+Großes Handelsschiff
+Kleines Kriegsschiff
+Mittleres Kriegsschiff
+Großes Kriegsschiff
+Händlerschiff
+Piratenschiff
+[DIPLOMATIEMESSAGES]
+Kriegsdrohung
+Zahlungsaufschub
+Einschmeicheln
+Waffenstillstand
+Beschimpfen
+Reserved
+[SPEECHGROUP]
+Katastrophen
+Belohnungsbauten
+Einwohnerzahl
+Bedürfnisse
+Volksstimmung
+Handelspartner
+Routen
+Schiff Attacken
+Schiff Meldung
+Soldat Attacken
+Soldat Meldung
+[KONTORFREMD]
+Einkauf
+Verkauf
+%d0t %s0 zum Preis von %d1
+%d0t %s0 für andere Waren
+[TOOLTIP:SOLDATBAU_ROHSTOFF]
+%d0 Goldstücke\n
+%d1t %s1\n
+%d2t %s2\n
+[TOOLTIP:WARENICONS]
+%d0t %s0
+%d0t %s0
+[TOOLTIP:WALFAENGER_SCHIFFBAU]
+Schiff bauen
+%d0t %s0
+[TOOLTIP:MARKTSTAND]
+Warenertrag
+[TOOLTIP:CONTROLFELD]
+Baumenü
+Baumenü
+Spielermenü
+Spielermenü
+Infomodus
+Infomodus
+Optionsmenü
+Optionsmenü
+[TOOLTIP:BAUMENU_EX]
+Öffentl. Gebäude
+Plätze, Straßen
+Farmen, Plantagen
+Handwerksbetriebe
+Küstengebäude
+Bergwerke, Minen
+Militärgebäude
+Zieranlagen
+[TOOLTIP:BAUMENUTAB]
+Öffentliche Gebäude
+Plätze, Straßen
+Farmen, Plantagen
+Handwerksbetriebe
+Küstengebäude
+Bergwerke, Minen
+Militärgebäude
+Zieranlagen
+[TOOLTIP:BAUMENUINFO]
+Links drehen
+Rechts drehen
+Schließen
+Baukosten
+Betriebskosten
+[TOOLTIP:BAUMENU_WIGWAMS_ADDON]
+Zierhecke\n%d0 Kaufleute
+Ziergitter\n%d0 Kaufleute
+Denkmal
+Schloss Hauptteil
+Zierh. Eingang1\n%d0 Kaufleute
+Zierplatz1\n%d0 Kaufleute
+Triumphbogen
+Schlossflügel
+Zierh. Eingang2\n%d0 Kaufleute
+Zierplatz2\n%d0 Kaufleute
+Obelisk
+Schloss Eckturm
+Zierbaum1\n%d0 Kaufleute
+Zierplatz3\n%d0 Kaufleute
+Prunkbrunnen
+SchlossBogengang
+Zierbaum2\n%d0 Kaufleute
+Zierplatz4\n%d0 Kaufleute
+Venusbrunnen\n%d0 Bürger
+Schloss Bogenelement
+Blumenbeet\n%d0 Kaufleute
+Löwenportal\n%d0 Kaufleute
+Reiterbild\n%d0 Kaufleute
+Schlossflügel
+Ziergarten\n%d0 Bürger
+Prunkflagge\n%d0 Bürger
+Feldherrenhalle\n%d0 Kaufleute
+Schloss Hauptteil
+Kathedrale
+Schlosstor
+[TOOLTIP:BAUMENU_WIGWAMS]
+Zierhecke
+Ziergitter
+Denkmal
+Schloss Hauptteil
+Zierh. Eingang 1
+Zierplatz 1
+Triumphbogen
+Schlossflügel
+Zierh. Eingang 2
+Zierplatz 2
+Obelisk
+Schlossecke
+Zierbaum 1
+Zierplatz 3
+Prunkbrunnen
+Schloss Bogengang
+Zierbaum 2
+Zierplatz 4
+Kathedrale
+Blumenbeet
+[TOOLTIP:BAUMENU_DIVERSES_ADDON]
+Wohnhaus
+Aristokraten Wohnhaus\n%d0 Kaufleute
+Markthaupthaus
+Nahrungs-/Salzstand
+Wirtshaus\n%d0 Pioniere
+Großes Wirtshaus\n%d0 Kaufleute
+Markthaupthaus II\n%d0 Siedler
+Stoff-/Lederstand 
+Kapelle\n%d0 Pioniere
+Kirche\n%d0 Siedler
+Markthaupthaus III\n%d0 Bürger
+Tabak-/Gewürzstand\n%d0 Siedler
+Schule\n%d0 Siedler
+Universität\n%d0 Bürger
+Bibliothek
+Lampenölstand\n%d0 Bürger
+Feuerwehr
+Medikus
+Galgen\n%d0 Bürger
+Kleidungsstand\n%d0 Bürger
+Badehaus\n%d0 Bürger
+Theater\n%d0 Kaufleute
+Amtsgericht
+Schmuckstand\n%d0 Kaufleute
+Pavillon\n%d0 Kaufleute
+Blumenbeet\n%d0 Kaufleute
+Zierhecke\n%d0 Kaufleute
+Weinstand\n%d0 Kaufleute
+Zierhecke Eingang\n%d0 Kaufleute
+[TOOLTIP:BAUMENU_DIVERSES]
+Wohnhaus
+Wohnhaus
+Aristokraten Wohnhaus\n%d0 Kaufleute
+Aristokraten Wohnhaus\n%d0 Kaufleute
+Markthaupthaus
+Markthaupthaus
+Nahrungs-/Salzstand
+Nahrungs-/Salzstand
+Wirtshaus\n%d0 Pioniere
+Wirtshaus\n%d0 Pioniere
+Großes Wirtshaus\n%d0 Kaufleute
+Großes Wirtshaus\n%d0 Kaufleute
+Markthaupthaus II\n%d0 Siedler
+Markthaupthaus II\n%d0 Siedler
+Stoff-/Lederstand 
+Stoff-/Lederstand 
+Kapelle\n%d0 Pioniere
+Kapelle\n%d0 Pioniere
+Kirche\n%d0 Siedler
+Kirche\n%d0 Siedler
+Markthaupthaus III\n%d0 Bürger
+Markthaupthaus III\n%d0 Bürger
+Tabak-/Gewürzstand\n%d0 Siedler
+Tabak-/Gewürzstand\n%d0 Siedler
+Schule\n%d0 Siedler
+Schule\n%d0 Siedler
+Universität\n%d0 Bürger
+Universität\n%d0 Bürger
+Bibliothek
+Bibliothek
+Lampenölstand\n%d0 Bürger
+Lampenölstand\n%d0 Bürger
+Feuerwehr
+Feuerwehr
+Medikus
+Medikus
+Galgen\n%d0 Bürger
+Galgen\n%d0 Bürger
+Kleidungsstand\n%d0 Bürger
+Kleidungsstand\n%d0 Bürger
+Badehaus\n%d0 Bürger
+Badehaus\n%d0 Bürger
+Theater\n%d0 Kaufleute
+Theater\n%d0 Kaufleute
+Amtsgericht
+Amtsgericht
+Schmuckstand\n%d0 Kaufleute
+Schmuckstand\n%d0 Kaufleute
+Pavillon\n%d0 Kaufleute
+Pavillon\n%d0 Kaufleute
+Blumenbeet\n%d0 Kaufleute
+Blumenbeet\n%d0 Kaufleute
+Zierhecke\n%d0 Kaufleute
+Zierhecke\n%d0 Kaufleute
+Weinstand\n%d0 Kaufleute
+Weinstand\n%d0 Kaufleute
+Zierhecke Eingang\n%d0 Kaufleute
+Zierhecke Eingang\n%d0 Kaufleute
+[TOOLTIP:BAUMENU_WEG]
+Feldweg
+Feldweg
+Pflasterstraße\n%d0 Siedler
+Pflasterstraße\n%d0 Siedler
+Marktplatz 1\n%d0 Siedler
+Marktplatz 1\n%d0 Siedler
+Marktplatz 2\n%d0 Siedler
+Marktplatz 2\n%d0 Siedler
+Öffentlicher Platz\n%d0 Bürger
+Öffentlicher Platz\n%d0 Bürger
+Prunkbrücke%d0 Kaufleute
+Prunkbrücke%d0 Kaufleute
+[TOOLTIP:BAUMENU_LANDWIRTSCHAFT]
+Schaffarm
+Schaffarm
+Jagdhütte
+Jagdhütte
+Rinderfarm\n%d0 Siedler
+Rinderfarm\n%d0 Siedler
+Pelztierjäger\n%d0 Bürger
+Pelztierjäger\n%d0 Bürger
+Forsthaus
+Forsthaus
+Wald
+Wald
+Kleine Farm
+Kleine Farm
+Kartoffelfeld
+Kartoffelfeld
+Hanfplantage\n%d0 Siedler
+Hanfplantage\n%d0 Siedler
+Hanffeld
+Hanffeld
+Tabakplantage\n%d0 Siedler
+Tabakplantage\n%d0 Siedler
+Tabakfeld
+Tabakfeld
+Gewürzplantage\n%d0 Siedler
+Gewürzplantage\n%d0 Siedler
+Gewürzfeld
+Gewürzfeld
+Hopfenfarm\n%d0 Siedler
+Hopfenfarm\n%d0 Siedler
+Hopfenfeld
+Hopfenfeld
+Getreidefarm\n%d0 Bürger
+Getreidefarm\n%d0 Bürger
+Getreidefeld
+Getreidefeld
+Heilkräuterplantage
+Heilkräuterplantage
+Heilkräuterfeld
+Heilkräuterfeld
+Baumwollplantage\n%d0 Bürger
+Baumwollplantage\n%d0 Bürger
+Baumwollfeld
+Baumwollfeld
+Zuckerrohrplantage\n%d0 Bürger
+Zuckerrohrplantage\n%d0 Bürger
+Zuckerrohrfeld
+Zuckerrohrfeld
+Seidenplantage\n%d0 Bürger
+Seidenplantage\n%d0 Bürger
+Seidenfeld
+Seidenfeld
+Indigoplantage\n%d0 Bürger
+Indigoplantage\n%d0 Bürger
+Indigofeld 
+Indigofeld 
+Weingut\n%d0 Kaufleute
+Weingut\n%d0 Kaufleute
+Weinfeld
+Weinfeld
+Brunnen
+Brunnen
+[TOOLTIP:BAUMENU_HANDWERK]
+Gerberei
+Gerberei
+Webstube
+Webstube
+Weberei
+Weberei
+Färberei\n%d0 Bürger
+Färberei\n%d0 Bürger
+Schneiderei\n%d0 Bürger
+Schneiderei\n%d0 Bürger
+Brauerei\n%d0 Siedler
+Brauerei\n%d0 Siedler
+Rumbrennerei\n%d0 Bürger
+Rumbrennerei\n%d0 Bürger
+Tabakverarbeitung\n%d0 Siedler
+Tabakverarbeitung\n%d0 Siedler
+Seilerei\n%d0 Siedler
+Seilerei\n%d0 Siedler
+Transiederei\n%d0 Bürger
+Transiederei\n%d0 Bürger
+Fleischerei\n%d0 Siedler
+Fleischerei\n%d0 Siedler
+Mühle\n%d0 Bürger
+Mühle\n%d0 Bürger
+Bäckerei\n%d0 Bürger
+Bäckerei\n%d0 Bürger
+Schmied\n%d0 Siedler
+Schmied\n%d0 Siedler
+Goldschmied\n%d0 Kaufleute
+Goldschmied\n%d0 Kaufleute
+Köhlerei\n%d0 Bürger
+Köhlerei\n%d0 Bürger
+Papiermühle\n%d0 Einwohner
+Papiermühle\n%d0 Einwohner
+Druckerei\n%d0 Einwohner
+Druckerei\n%d0 Einwohner
+[TOOLTIP:BAUMENU_SCHIFF_ADDON]
+Kontor
+Kontor II\n%d0 Siedler
+Kontor III\n%d0 Bürger
+Fischerhütte
+Kleine Werft\n%d0 Siedler
+Walfänger\n%d0 Bürger
+Große Werft\n%d0 Kaufleute
+[TOOLTIP:BAUMENU_SCHIFF]
+Kontor
+Kontor
+Kontor II\n%d0 Siedler
+Kontor II\n%d0 Siedler
+Kontor III\n%d0 Bürger
+Kontor III\n%d0 Bürger
+Fischerhütte
+Fischerhütte
+Kleine Werft\n%d0 Siedler
+Kleine Werft\n%d0 Siedler
+Walfänger\n%d0 Bürger
+Walfänger\n%d0 Bürger
+Große Werft\n%d0 Kaufleute
+Große Werft\n%d0 Kaufleute
+[TOOLTIP:BAUMENU_BERGBAU]
+Salzmine\n%d0 Pioniere
+Steinbruch\n%d0 Siedler
+Steinbruch\n%d0 Siedler
+Marmorsteinbruch\n%d0 Bürger
+Marmorsteinbruch\n%d0 Bürger
+Saline\n%d0 Pioniere
+Saline\n%d0 Pioniere
+Steinmetz\n%d0 Siedler
+Steinmetz\n%d0 Siedler
+Marmorsteinmetz\n%d0 Bürger
+Marmorsteinmetz\n%d0 Bürger
+Erzmine\n%d0 Siedler
+Erzmine\n%d0 Siedler
+Große Erzmine
+Große Erzmine
+Kleine Erzschmelze\n%d0 Siedler
+Kleine Erzschmelze\n%d0 Siedler
+Erzschmelze\n%d0 Bürger
+Erzschmelze\n%d0 Bürger
+Goldmine\n%d0 Kaufleute
+Goldmine\n%d0 Kaufleute
+Edelsteinmine\n%d0 Kaufleute
+Edelsteinmine\n%d0 Kaufleute
+[TOOLTIP:BAUMENU_MILITAR]
+Kleine Festung\n%d0 Pioniere
+Kleine Festung\n%d0 Pioniere
+Mittlere Festung\n%d0 Bürger
+Mittlere Festung\n%d0 Bürger
+Große Festung\n%d0 Kaufleute
+Große Festung\n%d0 Kaufleute
+Mauer\n%d0 Siedler
+Mauer\n%d0 Siedler
+Maueraufgang\n%d0 Siedler
+Maueraufgang\n%d0 Siedler
+Stadttor\n%d0 Siedler
+Stadttor\n%d0 Siedler
+Großes Stadttor\n%d0 Bürger
+Großes Stadttor\n%d0 Bürger
+Wachturm\n%d0 Siedler
+Wachturm\n%d0 Siedler
+Kanonenturm\n%d0 Siedler
+Kanonenturm\n%d0 Siedler
+Rüstungsbauer\n%d0 Siedler
+Rüstungsbauer\n%d0 Siedler
+Bogenmacher
+Bogenmacher
+Büchsenmacher
+Büchsenmacher
+Kanonengießerei
+Kanonengießerei
+Kleine Waffenschmiede
+Kleine Waffenschmiede
+Große Waffenschmiede
+Große Waffenschmiede
+Kriegsmaschinenbauer
+Kriegsmaschinenbauer
+[TOOLTIP:BAUMENU_MILITAR_ADDON]
+Kleine Festung\n%d0 Pioniere
+Mittlere Festung\n%d0 Bürger
+Große Festung\n%d0 Kaufleute
+Mauer\n%d0 Siedler
+Maueraufgang\n%d0 Siedler
+Stadttor\n%d0 Siedler
+Großes Stadttor\n%d0 Bürger
+Wachturm\n%d0 Siedler
+Kanonenturm\n%d0 Siedler
+Abwehrturm\n%d0 Bürger
+Rüstungsbauer\n%d0 Siedler
+Bogenmacher
+Büchsenmacher
+Kanonengießerei
+Kleine Waffenschmiede
+Große Waffenschmiede
+Kriegsmaschinenbauer
+[TOOLTIP:ABRISS]
+Nicht abreißen
+Nicht abreißen
+Abreißen
+Abreißen
+[TOOLTIP:SPIELERINFOMAIN_TAB_ADDON]
+Spielerinfo
+Diplomatiestatus
+Stadtliste
+Schiffliste
+Schiffe zu kaufen
+[TOOLTIP:SPIELERINFOMAIN_TAB]
+Spielerinfo
+Spielerinfo
+Diplomatiestatus
+Diplomatiestatus
+Stadtliste
+Stadtliste
+Schiffliste
+Schiffliste
+[TEXT:SPIELER_DIPLOMATIE]
+Einwohner:
+Einnahmen Marktstände:
+Betriebskosten:
+Einkaufskosten:
+Verkaufserlöse:
+Militärkosten:
+[TOOLTIP:SPIELERINFOMAIN]
+Spieler auswählen
+Spieler auswählen
+Nach oben
+Nach oben
+Nach unten
+Nach unten
+[TOOLTIP:SPIELERINFOTAB]
+Vertragsstatus
+Vertragsstatus
+Tribut fordern
+Tribut fordern
+Tribut leisten
+Tribut leisten
+Nachricht an Spieler senden
+Nachricht an Spieler senden
+[TOOLTIP:SPIELERINFO_VERTRAG]
+Handelsvertrag anbieten
+Handelsvertrag anbieten
+Angebotenen Handelsvertrag zurückziehen
+Angebotenen Handelsvertrag zurückziehen
+Handelsvertrag empfangen
+Handelsvertrag empfangen
+Handelsvertrag auflösen
+Handelsvertrag auflösen
+Militärbündnis anbieten
+Militärbündnis anbieten
+Angebotenes Militärbündnis zurückziehen
+Angebotenes Militärbündnis zurückziehen
+Militärbündnis empfangen
+Militärbündnis empfangen
+Militärbündnis auflösen
+Militärbündnis auflösen
+Krieg erklären
+Krieg erklären
+Angebotenen Friedensvertrag zurückziehen
+Angebotenen Friedensvertrag zurückziehen
+Friedensangebot
+Friedensangebot
+Friedensvertrag anbieten
+Friedensvertrag anbieten
+[TOOLTIP:SPIELERINFO_VERBINDLICHKEIT]
+Geldtribut zahlen
+Geldtribut zahlen
+Geldtributforderung
+Geldtributforderung
+[TOOLTIP:SPIELERINFO_FORDERUNGEN]
+Höhe des Geldtributs einstellen
+Höhe des Geldtributs einstellen
+Höhe des Warentributs einstellen
+Höhe des Warentributs einstellen
+[TOOLTIP:WARECHOOSE]
+Rohstoffe
+Rohstoffe
+Baumaterialien
+Baumaterialien
+Bedarfsgüter
+Bedarfsgüter
+Waffen
+Waffen
+[TOOLTIP:SOLDATEINZELN]
+Individuelle Formation
+Rechteck-Formation
+Kreis-Formation
+Offene Reihe-Formation
+Keil-Formation
+Marschformation
+Passiv
+Normal
+Aggressiv
+Patrouille ist aktiv
+Patrouille starten
+Einheit entlassen
+Anhalten
+Von Kriegsmaschine lösen
+[TOOLTIP:SOLDATGRUPPE]
+Individuelle Formation
+Rechteck-Formation
+Kreis-Formation
+Offene Reihe-Formation
+Keil-Formation
+Marschformation
+Passiv
+Normal
+Aggressiv
+Patrouille: aus
+Patrouille: ein
+Gruppe auflösen
+Gruppe anhalten
+[TOOLTIP:INFOSTADTTAB]
+Stadtstatus
+Stadtstatus
+Stadtliste
+Stadtliste
+Waren verkaufen
+Waren verkaufen
+Waren einkaufen
+Waren einkaufen
+Rohstoffe
+Rohstoffe
+Baumaterialien
+Baumaterialien
+Bedarfsgüter
+Bedarfsgüter
+Waffen
+Waffen
+[TOOLTIP:INFOSTADT_SPIELERBILANZMAIN]
+Gesamtbilanz
+[TOOLTIP:INFOSTADT_STADTMAIN]
+Einwohner
+Warenerträge
+Betriebskosten
+Einkaufskosten
+Verkaufserlöse
+Militärkosten
+Stadtbilanz
+Wissen in der Stadt
+Baumaterialzugang entsperren
+Baumaterialzugang entsperren
+Baumaterial sperren
+Baumaterial sperren
+[TOOLTIP:INFOSTADT_STADTEINWOHNER]
+Steuerhöhe
+Steuerhöhe
+Einwohneranzahl
+Einwohneranzahl
+Steuern ändern
+Steuern ändern
+[TOOLTIP:INFOSTADT_STEUERBAR]
+Steuerhöhe
+Steuerhöhe
+Schließen
+Schließen
+[TOOLTIP:INFOSTADT_LISTEN]
+Stadtliste
+Nach oben
+Nach unten
+[TOOLTIP:INFOSTADT_WAREN_EIN-VERKAUF]
+Im Lager verbleibende Menge
+Ein-/Verkaufsmenge
+Aktueller Preis
+%d0t %s0
+Ware hinzufügen
+Ware löschen
+[TOOLTIP:PRODINFO]
+Produktion aktivieren
+Produktion stilllegen
+Betriebskosten
+Felder bauen
+[TOOLTIP:FESTUNGTAB]
+Festungsstatus
+Festungsstatus
+Soldaten ausbilden
+Soldaten ausbilden
+[TOOLTIP:HELPMAIN]
+Schließen
+Zurück zum vorherigen Dokument
+Index
+Zurück
+Vor
+Missionsziele
+Indexsuche
+[TOOLTIP:FORSCHUNG_1]
+Schwerter\n%d0Goldstücke\n%d1Wissen
+Katapult\n%d0Goldstücke\n%d1Wissen
+Lanzen\n%d0Goldstücke\n%d1Wissen
+Bogen\n%d0Goldstücke\n%d1Wissen
+Belagerungsturm\n%d0Goldstücke\n%d1Wissen
+Kavallerie\n%d0Goldstücke\n%d1Wissen
+Gehärtete Pfeilspitzen\n%d0Goldstücke\n%d1Wissen
+Gefiederter Schaft\n%d0Goldstücke\n%d1Wissen
+Brandpfeile\n%d0Goldstücke\n%d1Wissen
+Reichweite Armbrust\n%d0Goldstücke\n%d1Wissen
+Armbrust\n%d0Goldstücke\n%d1Wissen
+Muskete\n%d0Goldstücke\n%d1Wissen
+Radschloss\n%d0Goldstücke\n%d1Wissen
+[TOOLTIP:FORSCHUNG_2]
+Verstärke Infanterierüstungen\n%d0Goldstücke\n%d1Wissen
+Verstärkte Kavallerierüstungen\n%d0Goldstücke\n%d1Wissen
+Doppelt verstärkte Infanterierüstungen\n%d0Goldstücke\n%d1Wissen
+Doppelt verstärkte Kavallerierüstungen\n%d0Goldstücke\n%d1Wissen
+Kanone\n%d0Goldstücke\n%d1Wissen
+Genormte Kaliber (Kanone)\n%d0Goldstücke\n%d1Wissen
+Explosivgeschosse\n%d0Goldstücke\n%d1Wissen
+Mörser\n%d0Goldstücke\n%d1Wissen
+Mörserpulver\n%d0Goldstücke\n%d1Wissen
+[TOOLTIP:FORSCHUNG_3]
+Schiffskanone\n%d0Goldstücke\n%d1Wissen
+Mittleres Handelsschiff\n%d0Goldstücke\n%d1Wissen 
+Mittleres Kriegsschiff\n%d0Goldstücke\n%d1Wissen
+Großes Handelsschiff\n%d0Goldstücke\n%d1Wissen
+Großes Kriegsschiff\n%d0Goldstücke\n%d1Wissen
+Verstärkter Rumpf\n%d0Goldstücke\n%d1Wissen
+[TOOLTIP:FORSCHUNG_4]
+Brunnen\n%d0Goldstücke\n%d1Wissen
+Weberei\n%d0Goldstücke\n%d1Wissen
+Feuerwehr\n%d0Goldstücke\n%d1Wissen
+Tiefer Brunnen\n%d0Goldstücke\n%d1Wissen
+Steinbrücke\n%d0Goldstücke\n%d1Wissen
+Medikus\n%d0Goldstücke\n%d1Wissen
+Bibliothek\n%d0Goldstücke\n%d1Wissen
+Schnelle Heilung\n%d0Goldstücke\n%d1Wissen
+Große Erzmine\n%d0Goldstücke\n%d1Wissen
+Amtsgericht\n%d0Goldstücke\n%d1Wissen
+[TOOLTIP:FESTUNGMAIN]
+Sammelpunkt setzen
+Sammelpunkt setzen
+[TOOLTIP:FESTUNGAUSBILDUNG]
+%d0t %s0
+%d0t %s0
+Pikenier\n%d0 Goldstücke\n%s1\n%s2
+Pikenier\n%d0 Goldstücke\n%s1\n%s2
+Schwertkämpfer\n%d0 Goldstücke\n%s1\n%s2
+Schwertkämpfer\n%d0 Goldstücke\n%s1\n%s2
+Bogenschütze\n%d0 Goldstücke\n%s1\n%s2
+Bogenschütze\n%d0 Goldstücke\n%s1\n%s2
+Bedienmannschaft\n%d0 Goldstücke\n%s1\n%s2
+Bedienmannschaft\n%d0 Goldstücke\n%s1\n%s2
+Lanzenknecht\n%d0 Goldstücke\n%s1\n%s2
+Lanzenknecht\n%d0 Goldstücke\n%s1\n%s2
+Kavallerie\n%d0 Goldstücke\n%s1\n%s2
+Kavallerie\n%d0 Goldstücke\n%s1\n%s2
+Armbrustschütze\n%d0 Goldstücke\n%s1\n%s2
+Armbrustschütze\n%d0 Goldstücke\n%s1\n%s2
+Musketier\n%d0 Goldstücke\n%s1\n%s2
+Musketier\n%d0 Goldstücke\n%s1\n%s2
+Musketenschütze\n%d0 Goldstücke\n%s1\n%s2
+Musketenschütze\n%d0 Goldstücke\n%s1\n%s2
+Spion\n%d0 Goldstücke\n%s1\n%s2
+Spion\n%d0 Goldstücke\n%s1\n%s2
+Sanitäter\n%d0 Goldstücke\n%s1\n%s2
+Sanitäter\n%d0 Goldstücke\n%s1\n%s2
+Scout\n%d0 Goldstücke\n%s1\n%s2
+Scout\n%d0 Goldstücke\n%s1\n%s2
+Ausbildung abbrechen
+Ausbildung abbrechen
+Sammelpunkt setzen
+Sammelpunkt setzen
+[TOOLTIP:KATAPULTBAUER]
+Belagerungsturm\n%d0 Goldstücke\n%d1 %s1\n%d2 %s2
+Katapult\n%d0 Goldstücke\n%d1 %s1\n%d2 %s2
+[TOOLTIP:KANONENGIESSER]
+Auftrag abbrechen
+Kanone\n%d0 Goldstücke\n%d1 %s1\n%d2 %s2
+Mörser\n%d0 Goldstücke\n%d1 %s1\n%d2 %s2
+[TOOLTIP:WOHNHAUSINFO]
+In diesem Haus
+In dieser Bevölkerungsstufe
+Bedarf an %s0 ist zu %d0%% erfüllt
+[TOOLTIP:WERFTTAB]
+Stadtstatus
+Stadtstatus
+Schiffsbau
+Schiffsbau
+[TOOLTIP:WERFTINFO]
+[TOOLTIP:WERFTSCHIFFSBAU]
+%d0t %s0
+%d0t %s0
+Kleines Handelsschiff\n%d0 Goldstücke\n%d1t %s1\n%d2t %s2\n%d3t %s3
+Kleines Handelsschiff\n%d0 Goldstücke\n%d1t %s1\n%d2t %s2\n%d3t %s3
+Mittleres Handelsschiff\n%d0 Goldstücke\n%d1t %s1\n%d2t %s2\n%d3t %s3
+Mittleres Handelsschiff\n%d0 Goldstücke\n%d1t %s1\n%d2t %s2\n%d3t %s3
+Großes Handelsschiff\n%d0 Goldstücke\n%d1t %s1\n%d2t %s2\n%d3t %s3
+Großes Handelsschiff\n%d0 Goldstücke\n%d1t %s1\n%d2t %s2\n%d3t %s3
+Kleines Kriegsschiff\n%d0 Goldstücke\n%d1t %s1\n%d2t %s2\n%d3t %s3
+Kleines Kriegsschiff\n%d0 Goldstücke\n%d1t %s1\n%d2t %s2\n%d3t %s3
+Mittleres Kriegsschiff\n%d0 Goldstücke\n%d1t %s1\n%d2t %s2\n%d3t %s3
+Mittleres Kriegsschiff\n%d0 Goldstücke\n%d1t %s1\n%d2t %s2\n%d3t %s3
+Großes Kriegsschiff\n%d0 Goldstücke\n%d1t %s1\n%d2t %s2\n%d3t %s3
+Großes Kriegschiff\n%d0 Goldstücke\n%d1t %s1\n%d2t %s2\n%d3t %s3
+In Auftrag geben
+In Auftrag geben
+Auftrag abbrechen
+Auftrag abbrechen
+Kanonenanzahl erhöhen
+Kanonenanzahl erhöhen
+Kanonenanzahl verringern
+Kanonenanzahl verringern
+Aktueller Bauauftrag
+Aktueller Bauauftrag
+Aktuelle Kanonenanzahl
+Aktuelle Kanonenanzahl
+[TOOLTIP:SCHIFFTAB_ADDON]
+Schiffstatus
+Schiffverhalten
+Schiff reparieren
+Schiff be- und entladen
+Schiff verkaufen
+Schiffliste
+Schiffe zu kaufen
+Automatische Handelsrouten
+[TOOLTIP:SCHIFFTAB]
+Schiffstatus
+Schiffstatus
+Schiffverhalten
+Schiffverhalten
+Schiff reparieren
+Schiff reparieren
+Schiff be- und entladen
+Schiff be- und entladen
+Schiff verkaufen
+Schiff verkaufen
+Schiffliste
+Schiffliste
+Automatische Handelsrouten
+Automatische Handelsrouten
+[TOOLTIP:SCHIFFMAIN]
+%d Kanonen an Bord
+Kontor errichten
+Ladung über Bord werfen
+[TOOLTIP:SCHIFFKAMPF]
+Patrouille aus
+Patrouille aus
+Patrouille ein
+Patrouille ein
+Flagge senken
+Flagge senken
+Flagge hissen
+Flagge hissen
+Stopp
+Stopp
+Schiff versenken
+Schiff versenken
+Entern abbrechen
+Entern starten
+[TOOLTIP:SCHIFFWERFT]
+%d0t %s0
+Kanonenanzahl erhöhen
+Kanonenanzahl erhöhen
+Kanonenanzahl vermindern
+Kanonenanzahl vermindern
+Reparaturfortschritt
+Reparaturfortschritt
+%d Kanonen an Bord
+%d Kanonen an Bord
+Reparatur abbrechen
+Reparatur abbrechen
+Reparatur beginnen
+Reparatur beginnen
+[TOOLTIP:SCHIFF_HANDELALL]
+Ware ausladen
+Ware ausladen
+Ware einladen
+Ware einladen
+Lademenge festlegen
+Lademenge festlegen
+[TOOLTIP:SCHIFF_HANDELEIGEN]
+Rohstoffe
+Rohstoffe
+Baumaterialien
+Baumaterialien
+Bedarfsgüter
+Bedarfsgüter
+Waffen
+Waffen
+[TOOLTIP:SCHIFF_KAUFEN]
+Schiff kaufen
+Preis
+Bezahlen
+[TOOLTIP:SCHIFF_VERKAUF]
+Verkaufspreis festlegen
+Verkaufspreis festlegen
+Schiff nicht mehr zum Verkauf anbieten
+Schiff nicht mehr zum Verkauf anbieten
+Schiff zum Verkauf anbieten
+Schiff zum Verkauf anbieten
+[TOOLTIP:SCHIFF_LISTE]
+Schiffliste
+Nach oben
+Nach unten
+[ROUTETEXTS]
+Neuer Eintrag
+Keine Kontore
+[TOOLTIP:SCHIFF_ROUTEMAIN]
+Routenpunkt
+Routenpunkt
+Nach oben
+Nach oben
+Nach unten
+Nach unten
+Automatische Handelsroute deaktivieren
+Automatische Handelsroute deaktivieren
+Automatische Handelsroute aktivieren
+Automatische Handelsroute aktivieren
+Routenpunkt setzen
+Routenpunkt setzen
+Routenpunkt löschen
+Routenpunkt löschen
+[TOOLTIP:SCHIFF_ROUTETAB]
+Einladen I
+Einladen I
+Einladen II
+Einladen II
+Ausladen I
+Ausladen I
+Ausladen II
+Ausladen II
+[TOOLTIP:SCHIFF_ROUTEACTION]
+Warenmenge festlegen
+Warenmenge festlegen
+Ware auf Schiff laden
+Ware auf Schiff laden
+Ware vom Schiff laden
+Ware vom Schiff laden
+Ware hinzufügen
+Ware hinzufügen
+Ware entfernen
+Ware entfernen
+[TOOLTIP:FORSCHUNGTAB]
+Forschungsstatus
+Forschungsstatus
+Waffenproduktion
+Waffenproduktion
+Militärische Erweiterungen
+Militärische Erweiterungen
+Marine Techniken
+Marine Techniken
+Zivile Forschung
+Zivile Forschung
+[TOOLTIP:PIONIERTAB]
+Scoutstatus
+Scout be- und entladen
+Automatische Handelsrouten
+[TOOLTIP:PIONIERMAIN]
+Markthaupthaus errichten
+Scout entlassen
+Paddel
+Speer
+Krug
+Schatulle
+[TOOLTIP:PIRATTAB]
+Auftrag
+Schutzgeld
+Handeln
+[TOOLTIP:PIRAT]
+Bezahlen
+[TOOLTIP:STATUSBAR]
+Hilfe
+none
+none
+none
+none
+Beschreibung
+Beschreibung
+none
+none
+Wählt Euer Banner!
+Gespeichert!
+Wirklich löschen?
+Gelöscht!
+Eisenerzvorkommen entdeckt!
+Salzvorkommen entdeckt!
+Marmorvorkommen entdeckt!
+Goldvorkommen entdeckt!
+Edelsteinvorkommen entdeckt!
+Scout wird angegriffen!
+Schatz entdeckt!
+Ressource entdeckt
+Kultur entdeckt!
+Ein Aufstand ist ausgebrochen!
+Eine Dürre ist ausgebrochen!
+Ein Fluch wurde ausgesprochen!
+Erzvorkommen erschöpft!
+Räuber sind in der Stadt!
+Die Pest ist ausgebrochen!
+Feuer!
+Vulkanausbruch!
+Schloss kann gebaut werden!
+Kathedrale kann gebaut werden!
+Denkmal kann gebaut werden!
+Triumphbogen kann errichtet werden!
+Eure Stadt hat eine Größe von 300 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 500 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 1000 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 1500 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 2500 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 3500 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 4500 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 5500 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 6500 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 7500 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 8500 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 9500 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 10.000 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 15.000 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 25.000 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 30.000 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 35.000 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 40.000 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 45.000 Einwohnern erreicht!
+Eure Stadt hat eine Größe von 50.000 Einwohnern erreicht!
+Die Vorräte gehen zur Neige!
+Baut eine Kapelle!
+Baut ein Wirtshaus!
+Baut eine Schule!
+Baut eine Kirche!
+Baut einen Medikus!
+Baut eine Feuerwehr!
+Baut eine Universität!
+Baut eine Bibliothek!
+Baut ein Badehaus!
+Baut ein Theater!
+Baut einen Park!
+Baut einen Galgen!
+Baut einen Pavillon!
+Baut einen Nahrungs-/Salzstand!
+Baut einen Stoff-/Lederstand!
+Baut einen Tabak-/Gewürzstand!
+Baut einen Lampenölstand!
+Baut einen Kleidungsstand!
+Baut einen Weinstand!
+Baut einen Schmuckstand!
+Baut mehr Marktstände!
+Nahrung fehlt!
+Leder fehlt!
+Stoffe fehlen!
+Alkohol fehlt!
+Salz fehlt!
+Gewürze fehlen!
+Tabak fehlt!
+Lampenöl fehlt!
+Schmuck fehlt!
+Wein fehlt!
+Kleidung fehlt!
+Seide fehlt!
+Baumaterial fehlt!
+Holz fehlt!
+Werkzeug fehlt!
+Ziegel fehlen!
+Marmor fehlt!
+Rohstoffe fehlen!
+Gold fehlt!
+Marmor fehlt!
+Das Volk fühlt sich wohl!
+Das Volk schenkt Euch ein Denkmal!
+Ihr wirtschaftet gut!
+Eurer Volk lebt in Frieden!
+Die Volksstimmung ist schlecht!
+Das Volk hat nicht genug zum Leben!
+Das Volk wird aufständisch!
+Die Einwohner verlassen die Stadt!
+Eine neue Stadt wurde gegründet!
+Ein Handelspartner hat seine Stadt ausgebaut!
+Eine verbündete Stadt hat eine Größe von mehr als 500 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 1000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 2000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 3000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 4000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 5000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 6000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 7000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 8000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 9000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 10.000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 15.000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 20.000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 25.000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 30.000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 35.000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 40.000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 45.000 Einwohnern erreicht!
+Eine verbündete Stadt hat eine Größe von mehr als 50.000 Einwohnern erreicht!
+Ein Bündnispartner heißt Euch willkommen!
+Ein Handelspartner begrüßt Euch!
+Ein Spieler heißt Euch willkommen!
+Ein Bündnispartner fordert Euch auf, zu verschwinden!
+Ein Handelspartner fordert Euch auf, zu verschwinden!
+Ein Spieler fordert Euch auf, zu verschwinden!
+Ein Bündnispartner droht mit Krieg!
+Ein Handelspartner droht mit Krieg!
+Ein Spieler droht mit Krieg!
+Eine Vertragskündigung droht!
+Ein Bündnispartner hat eine neue Stadt gegründet!
+Ein Bündnispartner hat seine Stadt erweitert!
+Ein Bündnispartner erbittet militärischen Beistand!
+Ein Spieler hat eine neue Stadt gegründet!
+Ein Spieler hat seine Stadt erweitert!
+Ein Spieler hat mehr als 500 Einwohner in der Stadt!
+Ein Spieler hat mehr als 1000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 2000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 3000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 4000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 5000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 6000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 7000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 8000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 9000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 10.000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 15.000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 20.000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 25.000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 30.000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 35.000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 40.000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 45.000 Einwohner in der Stadt!
+Ein Spieler hat mehr als 50.000 Einwohner in der Stadt!
+Ein neues Gebäude wurde erforscht!
+Ein Schiff wird angeboten!
+Ein Schiff wurde verkauft !
+Das Schiff ist repariert!
+Die Kanonenzahl des Schiffes wurde erhöht!
+Die Kanonenzahl des Schiffes wurde verringert!
+Das Schiff ist fertig!
+Ein Handelspartner hat ein neues Schiff gebaut!
+Ein Bündnispartner hat ein neues Schiff gebaut!
+Ein Vertragspartner hat ein neues Schiff gebaut!
+Die maximale Anzahl an Schiffen ist erreicht!
+Ein Schiff ist gesunken!
+Ein Walfänger ist gesunken!
+Überprüft die Handelsrouten!
+Die Händler stehen vor verschlossenen Toren!
+Mein Handelspartner hat keine Waren mehr!
+Keine Waren vorhanden zum Handeln!
+Eure Einheiten werden angegriffen!
+Euer Schiff wird angegriffen!
+Die Festung wird angegriffen!
+Ein Schiff wird von Piraten angegriffen!
+Eine Stadt wurde erobert!
+Eure Truppen haben gesiegt!
+Eure Flotte war siegreich!
+Die Piraten wurden besiegt!
+Eine Ansiedlung der Afrikaner wurde erobert!
+Eine Ansiedlung der Azteken wurde erobert!
+Eine Beduinenstadt wurde erobert!
+Ein Eskimodorf wurde erobert!
+Eine Indianeransiedlung wurde erobert!
+Ein Dorf der Mauren wurde erobert!
+Ein Dorf der Mongolen wurde erobert!
+Ein Dorf der Polynesier wurde erobert!
+Eine Stadt der Venezianer wurde erobert!
+Eure Truppen wurden geschlagen!
+Eure Flotte wurde besiegt!
+Ihr habt den Kampf verloren!
+Ihr habt die max. Anzahl Soldaten ausgebildet!
+Ein Soldat wurde ausgebildet!
+Die Soldaten benötigen Armbrüste!
+Die Soldaten benötigen Äxte!
+Die Soldaten benötigen Bögen!
+Es fehlen Lanzen!
+Es fehlen Musketen!
+Es fehlen Schwerter!
+Es fehlen Speere!
+Es fehlt an Spießen!
+Es fehlen Rüstungen!
+Einheit geheilt!
+Soldaten sind in der Festung!
+Soldaten sind im Wachturm!
+Soldaten sind im Kanonenturm!
+Soldaten sind auf dem Schiff!
+Angriff!
+Vorwärts!
+Angriff!
+Vorwärts!
+Schützt das Schiff!
+Schützt den Scout!
+Schützt den Zivilisten!
+Zahlt ein Warentribut!
+Zahlt ein Geldtribut!
+Die Tributzahlung wird verweigert!
+Die Tributzahlung wird verweigert!
+Ein Handelsvertrag wird angeboten!
+Ein Handelsvertrag wurde abgeschlossen!
+Ein Handelsvertrag wurde gebrochen!
+Eine Handelsroute wurde unterbrochen!
+Ein Bündnispartner bietet einen Vertrag an!
+Ein Bündnispartner hat einen Vertrag angenommen!
+Ein Bündnispartner hat einen Vertrag gebrochen!
+Ein Bündnispartner hat einen Vertrag aufgelöst!
+Ein Konkurrent erklärt Euch den Krieg!
+Die Wiederaufnahme eines Friedensvertrages wird nur durch Zahlen von Tribut Erfolg haben!
+Die Wiederaufnahme eines Handelsvertrages wird nur durch Zahlen von Tribut Erfolg haben!
+Die Wiederaufnahme eines Bündnisvertrages wird nur durch Zahlen von Tribut Erfolg haben!
+Der blaue Spieler erinnert Euch daran, den Tribut zu zahlen!
+Der rote Spieler erinnert Euch daran, den Tribut zu zahlen!
+Der gelbe Spieler erinnert Euch daran, den Tribut zu zahlen!
+Der türkise Spieler erinnert Euch daran, den Tribut zu zahlen!
+Der orange Spieler erinnert Euch daran, den Tribut zu zahlen!
+Der violette Spieler erinnert Euch daran, den Tribut zu zahlen!
+Der grüne Spieler erinnert Euch daran, den Tribut zu zahlen!
+Der weiße Spieler erinnert Euch daran, den Tribut zu zahlen!
+Ein Schiff ist in Euer Reich eingedrungen!
+Einheiten sind in Euer Reich eingedrungen!
+Ihr seid mit Eurem Schiff in ein fremdes Reich eingedrungen!
+Ihr seid mit Euren Einheiten in ein fremdes Reich eingedrungen!
+Forschung beendet!
+Ein neues Gebäude wurde erforscht!
+Die Statue wurde erforscht!
+Der Pavillon wurde erforscht!
+Ein Wirtshaus kann gebaut werden!
+Eine Kathedrale kann gebaut werden!
+Eine Universität kann gebaut werden!
+Ein Theater kann gebaut werden!
+Eine Bibliothek kann gebaut werden!
+Das Haus des Medikus kann gebaut werden!
+Ein Galgen kann gebaut werden!
+Ein Badehaus kann gebaut werden!
+Eine Kirche kann gebaut werden!
+Eine Feuerwehr kann gebaut werden!
+Ein Gericht kann gebaut werden!
+Eine Kapelle kann gebaut werden!
+Eine Schule kann gebaut werden!
+Ein Markthaupthaus kann gebaut werden!
+Ein Wohnhaus kann gebaut werden!
+EVENTMAIN_SPEECH_INFRA_SSTAND,
+EVENTMAIN_SPEECH_INFRA_WSTAND,
+EVENTMAIN_SPEECH_INFRA_KSTAND,
+EVENTMAIN_SPEECH_INFRA_LSTAND,
+EVENTMAIN_SPEECH_INFRA_TGSTAND,
+EVENTMAIN_SPEECH_INFRA_SLSTAND,
+EVENTMAIN_SPEECH_INFRA_SNSTAND,
+Ihr macht das sehr gut, mein Freund!
+Ihr seid ein schlechter Gebieter!
+EVENTMAIN_SPEECH_NETZWERK_AUFGEGEBEN,
+EVENTMAIN_SPEECH_NETZWERK_VERLASSEN,
+EVENTMAIN_SPEECH_NETZWERK_BESIEGT,
+Ihr hattet Erfolg!
+Ihr habt die gesuchte Person gefunden!
+EVENTMAIN_SPEECH_SPIELZIEL_MONOPOLS_ROHSTOFF,
+EVENTMAIN_SPEECH_SPIELZIEL_MONOPOLS_BAUMAT,
+EVENTMAIN_SPEECH_SPIELZIEL_MONOPOLS_BEDARF,
+EVENTMAIN_SPEECH_SPIELZIEL_MONOPOLS_WAFFEN,
+EVENTMAIN_SPEECH_SPIELZIEL_MONOPOL_ROHSTOFF,
+EVENTMAIN_SPEECH_SPIELZIEL_MONOPOL_BAUMAT,
+EVENTMAIN_SPEECH_SPIELZIEL_MONOPOL_BEDARF,
+EVENTMAIN_SPEECH_SPIELZIEL_MONOPOL_WAFFEN,
+Ihr habt versagt!
+EVENTMAIN_SPEECH_BEISTAND_BEST_BLAU,
+EVENTMAIN_SPEECH_BEISTAND_BEST_ROT,
+EVENTMAIN_SPEECH_BEISTAND_BEST_GELB,
+EVENTMAIN_SPEECH_BEISTAND_BEST_TURKIS,
+EVENTMAIN_SPEECH_BEISTAND_BEST_ORANGE,
+EVENTMAIN_SPEECH_BEISTAND_BEST_GRUEN,
+EVENTMAIN_SPEECH_BEISTAND_BEST_VIOLETT,
+EVENTMAIN_SPEECH_BEISTAND_BEST_WEISS,
+EVENTMAIN_SPEECH_BEISTAND_ERBITTEN_BLAU,
+EVENTMAIN_SPEECH_BEISTAND_ERBITTEN_ROT,
+EVENTMAIN_SPEECH_BEISTAND_ERBITTEN_GELB,
+EVENTMAIN_SPEECH_BEISTAND_ERBITTEN_TURKIS,
+EVENTMAIN_SPEECH_BEISTAND_ERBITTEN_ORANGE,
+EVENTMAIN_SPEECH_BEISTAND_ERBITTEN_GRUEN,
+EVENTMAIN_SPEECH_BEISTAND_ERBITTEN_VIOLETT,
+EVENTMAIN_SPEECH_BEISTAND_ERBITTEN_WEISS,
+EVENTMAIN_SPEECH_BEISTAND_ERBITTEN_ME,
+EVENTMAIN_SPEECH_BEISTAND_VERWEIGT,
+EVENTMAIN_SPEECH_ARISTOKRATEN_MEHR,
+EVENTMAIN_SPEECH_ARISTOKRATEN_MOEGLICH,
+EVENTMAIN_SPEECH_SONSTIGES_VOLLVERSION_ERWERBEN,
+EVENTMAIN_SPEECH_SONSTIGES_DEMOVERSION,
+EVENTMAIN_SPEECH_SONSTIGES_NURIN_VOLLVERSION,
+EVENTMAIN_SPEECH_STADTVORHANDEN,
+EVENTMAIN_SPEECH_TRIBUTAUFSCHUB_OK,
+EVENTMAIN_SPEECH_TRIBUTAUFSCHUB_NEIN,
+EVENTMAIN_SPEECH_NIEFRIEDEN,
+*!?*"
+EVENTMAIN_VOICE,
+EVENTMAIN_DROHUNG_KRIEG,
+EVENTMAIN_HALSABSCHNEIDER,
+EVENTMAIN_TRIBUT_FORDERN,
+EVENTMAIN_TRIBUTFRIST_15,
+EVENTMAIN_TRIBUT_SCHUTZGELD,
+EVENTMAIN_PIRAT_GESCHENK_BERUHIGT,
+EVENTMAIN_PIRAT_AUFGEHEZT_GEGNER,
+EVENTMAIN_PIRAT_TRIBUT_BEZAHLT,
+EVENTMAIN_NATIVE_KRIEG,
+EVENTMAIN_TUTORIAL_BESCHIMPFUNG,
+EVENTMAIN_TUTORIAL_LOB_2020,
+EVENTMAIN_TUTORIAL_LOB_2022,
+EVENTMAIN_TUTORIAL_LOB_1574,
+EVENTMAIN_TUTORIAL_FINALBATTLE,
+EVENTMAIN_MILITAR_ABBRUCH,
+EVENTMAIN_SOLDATEN_ABZIEHEN,
+EVENTMAIN_ANBIEDERN_ABLEHNEN,
+Friedensvertrag wird angeboten
+Friedensvertrag wurde unterzeichnet
+Waren Tribut wurde bezahlt
+Geld Tribut wurde bezahlt
+Spieler droht euch mit Krieg !
+Spieler bittet um Zahlungsaufschub !
+Spieler schmeichelt sich bei euch ein !
+Spieler bittet um Waffenstillstand !
+Spieler beschimpft euch !
+Eines eurer Schiffe wird geentert !
+Ein Erdbeben ist ausgebrochen !
+[TOOLTIP:OPTION]
+Hauptmenü
+Spiel laden
+Spiel speichern
+Musik
+Sprachmeldungen
+[TOOLTIP:OPTION_MAIN_ADDON]
+Beenden
+Bewertung
+Spieler Statistik
+Aktive Hilfe: ein
+Aktive Hilfe: aus
+[TOOLTIP:OPTION_MAIN]
+Beenden
+Bewertung
+Aktive Hilfe: ein
+Aktive Hilfe: aus
+[TOOLTIP:OPTION_LOAD]
+Laden
+[TOOLTIP:OPTION_SAVE]
+Spielstand speichern
+Spielstand löschen
+[OPTIONSUBS_TEXTE]
+Hauptmenü
+Laden
+Speichern
+Musik
+Sprachausgabe
+[TOOLTIP:OPTION_MUSIC]
+Titel spielen
+[TOOLTIP:STATUSBARICON]
+Goldstücke
+Einwohner
+Werkzeug
+Holz
+Ziegel
+Marmor
+[COMPSPIELER_NAME]
+Macks De Saigner
+Eisenfaust
+Sam Muel
+Lui Collani
+Willi Friedl
+Merlino Linearis
+Tom Niedaltar
+Mike Sparse
+Ert Asser
+Edwin Benno
+Paul
+Gerda Cloudy
+Silvius Audio
+Mars Tini
+Maggy Hammerl
+[STAEDTE]
+Abemsberg
+Abmont
+Ubleck
+Uhlburg
+Puerto Pablo
+Queckborm
+Querfort
+Radolfsell
+Argenhall
+Avenaria
+Bad Drebau
+Barlin
+Bielachen
+Blackpul
+Bochom
+Bonegam
+Ingelstadt
+Innsbrück
+Jaricho
+Jersie
+Fairbenks
+Falkenstain
+Florinz
+Fraiburg
+Bramen
+Callina
+Cebourg
+Celw
+Cembridge
+Chamnitz
+Chamonie
+Clierksburg
+Lienz
+Lisch
+Lüback
+Madred
+Alkenau
+Allbeck
+Coxhaven
+Creskow
+Cluppenburg
+Costa Rieca
+Georga
+Gisholm 
+Crest
+Daitona
+Dessinlow
+Dinzig
+Disseldorf
+Ditfurt
+Vanstade
+Vellach
+Ditroit
+Dormstadt
+Amstertam
+Arensund
+Basford
+Batzdorf
+Betburg
+Bibra
+Moosburg
+Mossenburg
+Munchen
+Nedda
+Adfeld
+Albarta
+Drisden
+Durtmond
+Frenkfurt
+Galsenkirchen
+Port Morosby
+Prahag
+Ackstedt
+Adfael
+Erford
+Essix
+Kap Crus
+Kapenhagen
+Karlsrohe
+Keln
+Alsdorf
+Amerillo
+Salzburgen
+San Cambo
+Vrielachen
+Vriesburg
+Nordhorm
+Nova Semlja
+Schuffhausen
+Siebenstadt
+Solengen
+Stemrod
+Glasgo
+Goldenstadt
+Grez
+Gronewald
+Kräuzberg
+Krims
+Krokau
+Lavaschkiri
+Worrach
+Zaustaden
+Zurich
+Zwackau
+Lemburg
+Lemonhall
+Lerinstad
+Lichtenstein
+Nurnberg
+Obernberg
+Offenpach
+Okkersheim
+Königstain
+Kossel 
+Ossnobrück
+Ottewa
+Oltenberg
+Osacka
+Unterfurt
+Utarsum
+Pares
+Pelsen
+Monte Carla
+Monte Cossino
+Pemrod
+Petirsberg
+Marberg
+Meinz
+Pfarzheim
+Porsberg
+Hamiln
+Haningen
+Rastenau
+Rawensburg
+Regenberg
+Reslingburg
+Heerlam
+Hewenrod
+Rio Koco
+Rottertam
+Hilsum
+Honnaver
+Rhonfelden
+Ridelstett
+Guissen
+Haelsinki
+Temmendorf
+Toggenberg
+Saarburg
+Saint Claer
+Neumunster
+Neustett
+Klagenpfort
+Kolmbach
+Traja
+Trur
+Wasslingen
+Waterlu
+Wenkenrod
+Wiem
+[SHIPS]
+Altair
+America
+Suzenka
+Pambeliska
+Claudia
+Coconut
+Meltami
+Mephisto
+Anlara
+Atlantic
+Donna
+Drake
+Carraldo
+Carusano
+La Belle
+Annabelle
+Defender
+Dolores
+Meteor
+Milan
+Vlubaru
+Lands End
+Puccina
+Esmeralda
+Elrycs
+Enterprise
+Sitar
+Felix
+Gaffea
+Geraldine
+Gitana
+Alma
+Fargo
+Iglia
+Imiano
+Megalo
+My GLOML
+Hurrycan
+Hussar
+Nutshell
+Oceania
+Janeen
+Jenny
+Starlight
+Störtebekker
+Ruggina
+Irezza
+Fantasia
+Cortana
+Lamarina
+Seagull
+Cirrus
+Pia
+Katharina
+Südstern
+Südwind
+Admiral Wilhelm
+Luykopovsk
+Nostromo
+Nova
+Brilania
+Seaside
+Calypso
+Sabinas Dream
+Atlantis
+Avena
+Baltic
+Belle Adventure
+Black Molly
+Seecow
+Seehind
+Heart of Gold
+Helisara
+Hunt
+Mistral
+Whisper
+Seacloud
+Moby
+Lady Wilhelmina
+Monique
+Morina
+My Lady of Aros
+Black Star
+Blue Run
+Oceanis
+Verena
+Heureka
+Patria
+Rainbow
+Red Leapl
+Reliance
+Erika
+Rosinante
+Sainut
+Sappno
+Saxonia
+Seawitch
+Secunda
+Seebull
+Julian
+Cumulus
+Sunflowers
+Sunshine
+Taita
+Ticondega
+White Gull
+Spatzl
+[NATIVE_STADT]
+Almoravid
+Almohad
+Fatimido
+Maureta
+Somarehda
+Ewjiloh
+Ajdavito
+Gheddiwa
+At Kahressa
+Bandorho
+Choybalsan
+Dalandzadgad
+Arvayhaar
+Tsetserleg
+Sühbaatar
+Kolweza
+Mobbejae
+Bollusom
+Sokkotao
+Dongondoutchi
+Sokorro
+Bernalillo
+Mesilla
+Bayarda
+Alamogordo
+Banouka
+Tolayaok
+Povungnituk
+Qaanaaq
+Laptewa
+Chumosheta
+Atsugawi
+Woikakita
+Balokita
+Tahomeni
+Guaneo
+Nuevita
+Mayariso
+Gonaives
+Aquadilla
+[NATIVE_SPIELER]
+Almoraviden
+Almohaden
+Fatimiden
+Mauretanier
+Somares
+Ewji
+Ajda
+Gheddi  
+Kahre
+Bando 
+Choyba 
+Dalanda 
+Arvayha 
+Tsetsa
+Sühbaa 
+Kolwa
+Mobbea
+Bollu 
+Sokkot 
+Dongo 
+Socco
+Bernali 
+Messi
+Baya
+Alamogo 
+Nouka
+Yaok
+Povuno
+Qaan 
+Lappa
+Chumo
+Atsugi
+Woilaki
+Baloxi
+Tahom 
+Gui
+Nuevi 
+Mayari 
+Gonaino
+Aquos
+[STATISTIK]
+BEWERTUNG
+Status
+Punkte
+Dörfer, Städte
+Untertanen
+Zufriedenheit
+Barvermögen
+Besiedelte Inseln
+Soldaten
+Besiegt
+Gefallen
+Schiffe
+Versenkt
+Gesunken
+Besiegte Gegner
+Missionsbonus
+Summe
+HIGHSCORE
+Weiter
+[MESSAGEBOX]
+Ein Spieler ist momentan nicht verbunden,\nsoll auf ihn gewartet werden?
+Verbindung mit Server verloren,\nsoll ich eine neue Verbindung aufbauen ?
+Nicht warten
+Spiel beenden
+Wiederherstellen
+Verbinden
+Spiel wurde angehalten, bitte warten...
+Verbindung verloren
+Spiel sofort starten !
+Versuche, Verbindung aufzubauen,\nbitte warten...
+Spiel beenden
+Bereit
+Lade...
+Keine Rückmeldung...
+Verbindungsstatus
+Warte auf Server
+Weiterspielen
+Overwriting of savegames\nin Singleplayer only!
+OK
+Zurück
+Abbrechen
+Spiel wirklich beenden ?
+Ja
+Nein
+Pause !
+Spiel läuft asynchron !!\nSpiel muß beendet werden !
+Spieler hat das Spiel verlassen !
+Spieler bankrott !
+Spieler wurde besiegt !
+Spiel wirklich beenden ?\nAchtung das Netzwerkspiel wird beendet !
+Server hat das Netzwerkspiel beendet !\nLastgame-ServerDown.sav gespeichert
+Bitte Warten,\nspeichere Lastgame-ServerDown.sav...
+Bitte Warten, Spiel wird beendet...
+Bitte Warten, Spiel wird gespeichert…
+Spieler Inaktiv - Freisicht Modus !
+Async aufgetreten, Spiel muß beendet werden !
+Spielversionen mit Server inkompatibel!
+Bgruppen.dat mit Server inkompatibel!
+Anlagen.dat mit Server inkompatibel!
+Figuren.dat mit Server inkompatibel!
+Vom Server angefordertes SaveGame\nnicht gefunden!
+Vom Server angefordertes Szenario\nnicht gefunden!
+Versionen des gleichnamigen Szenarios\nmit Server inkompatibel!
+Synchronisiere...
+Alt+1
+Alt+2
+Alt+3
+Alt+4
+Alt+5
+Alt+6
+Alt+7
+Alt+8
+aktiv
+inaktiv
+nicht verbunden
+Aktuell ausgewähltes Spielerprofil\nist im Savegame nicht vorhanden!
+[EXE_ERROR]
+Auflösung 1024x786 wird nicht unterstützt!
+[ADDONSTAT_1]
+Alle anzeigen...
+m[[t]
+%
+t[[s]
+Lagerstand & Produktivität
+Versorgung
+Rauf
+Runter
+Lagerstand
+Produktivität
+Beenden
+Memory 1
+Memory 2
+Memory 3
+Memory 4
+Memory 5
+Memory 6
+Memory 7
+Memory 8
+[END]
